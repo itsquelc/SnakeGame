@@ -1,0 +1,3 @@
+Configurar o GIT Local
+git config --global user.name itsquelc
+git config --global user.email raquelnunescirino@gmail.com
